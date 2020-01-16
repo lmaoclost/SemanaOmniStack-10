@@ -14,6 +14,7 @@ Node.js and a text editor. I'm using VSCode.
 cd to the cloned folder
 ```
 $ yarn
+$ cd /backend
 $ yarn dev
 ```
 Go to http://localhost:3333 and the project is up and running!
