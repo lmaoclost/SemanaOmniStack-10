@@ -13,11 +13,17 @@ Node.js and a text editor. I'm using VSCode.
 ## Installing
 cd to the cloned folder
 ```
-$ yarn
 $ cd /backend
+$ yarn
 $ yarn dev
 ```
-Go to http://localhost:3333 and the project is up and running!
+Go to another terminal
+```
+$ cd /web
+$ yarn
+$ yarn start
+```
+Go to http://localhost:3000 and the project is up and running!
 
 ## Built With
 
