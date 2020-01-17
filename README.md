@@ -25,6 +25,17 @@ $ yarn start
 ```
 Go to http://localhost:3000 and the project is up and running!
 
+## Mobile
+
+For the React Native part, i'm using Expo in my android device
+```
+$ cd /mobile
+$ yarn
+$ yarn start
+```
+
+Follow the Expo instructions and have fun!
+
 ## Built With
 
 * [JavaScript](https://devdocs.io/javascript/) - Main Language
