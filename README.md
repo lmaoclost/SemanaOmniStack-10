@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-Node.js and a text editor. I'm using VSCode. Make sure that your localhost IP is correct!
+Node.js and a text editor. I'm using VSCode.
 
 ## Installing
 cd to the cloned folder
@@ -33,7 +33,7 @@ $ cd /mobile
 $ yarn
 $ yarn start
 ```
-
+Make sure that your localhost IP is correct in the [API.js](/mobile/src/services/api.js)!
 Follow the Expo instructions and have fun!
 
 ## Built With
