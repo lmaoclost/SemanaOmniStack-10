@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-Node.js and a text editor. I'm using VSCode.
+Node.js and a text editor. I'm using VSCode. Make sure that your localhost IP is correct!
 
 ## Installing
 cd to the cloned folder
