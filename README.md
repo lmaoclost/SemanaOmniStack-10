@@ -1,4 +1,4 @@
-# Semana OmniStack 10 WIP
+# Semana OmniStack 10
 
 Project for a [Course](https://rocketseat.com.br/week-10/aulas) that has the purpose to code a Dev Finder using Node.js, React.js, React Native.
 
